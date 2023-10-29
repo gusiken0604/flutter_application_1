@@ -12,7 +12,7 @@ void main() {
                 Color.fromARGB(255, 121, 54, 237),//aaa                
               ],
               begin:Alignment.topLeft,
-              end:Alignment.bottomRight,
+              end:Alignment.bottomRight,//
             ),
           ),
           child: const Center(
