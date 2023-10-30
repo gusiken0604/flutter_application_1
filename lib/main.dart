@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-ß
+
 void main() {
   runApp(
     MaterialApp(
@@ -16,7 +16,8 @@ void main() {
             ),
           ),
           child: const Center(
-            child: Text('Hello World!'),
+            child: Text('Hello World!',style: TextStyle(color: Colors.white,fontSize: 28),
+            ),
           ),
         ),
       ),
